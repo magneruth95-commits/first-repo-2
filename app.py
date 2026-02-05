@@ -98,3 +98,4 @@ def all_transactions():
 if __name__ == "__main__":
     # debug=True pour développement uniquement
     app.run(host="0.0.0.0", port=5000, debug=True)
+    # tracted by git
